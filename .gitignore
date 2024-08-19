@@ -1,6 +1,6 @@
 __pycache__/
 .idea/
 .DS_Store/
-.flaskenv/
-.env/
+.flaskenv
+.env
 env/
